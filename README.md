@@ -10,6 +10,7 @@ $ npm run dev
 
 # How to run calculator and game
 ```sh
+$ python -m venv .venv
 $ source ../.venv/bin/activate
 $ pip install pygame
 $ pip install customtkinter
