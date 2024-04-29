@@ -12,3 +12,7 @@ $ npm run dev
 ```sh
 $ source ../.venv/bin/activate
 ```
+
+# Link til ChatGPT
+
+https://chat.openai.com/share/20a41e1b-5926-4ed4-90d4-98eb3788518d
