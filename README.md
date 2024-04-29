@@ -8,10 +8,13 @@ $ npm install
 $ npm run dev
 ```
 
-# How to run calculator
+# How to run calculator and game
 ```sh
 $ source ../.venv/bin/activate
+$ pip install pygame
+$ pip install customtkinter
 ```
+
 
 # Link til ChatGPT
 
