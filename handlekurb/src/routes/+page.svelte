@@ -24,10 +24,11 @@
         inputVare = "";
         inputState = false;
     }
+
     const removeFromList = (index: Number) => {
         $vareStore = $vareStore.filter((vare,vareIndex) => vareIndex !== index)
     }
-
+    
 </script>
 
 
@@ -37,7 +38,6 @@
 
 <body>
     <section>
-
         <h1>
             HandleListe
         </h1>
@@ -60,4 +60,3 @@
         </article>
     </section>
 </body>
-
